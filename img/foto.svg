@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="205mm"
+   height="80mm"
+   viewBox="0 0 205 80"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="foto.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2821">
+      <stop
+         style="stop-color:#baea75;stop-opacity:1;"
+         offset="0"
+         id="stop2817" />
+      <stop
+         style="stop-color:#f5cca1;stop-opacity:0.97487438"
+         offset="1"
+         id="stop2819" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2821"
+       id="linearGradient2823"
+       x1="9.1773815"
+       y1="58.686008"
+       x2="190.39406"
+       y2="58.686008"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1158799,0,0,1.1158799,-9.454546,191.76501)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="382.27688"
+     inkscape:cy="555.11935"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     borderlayer="false"
+     width="140mm"
+     height="100mm" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-217)">
+    <rect
+       style="opacity:1;fill:url(#linearGradient2823);fill-opacity:1;stroke:#000000;stroke-width:1.14198506;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="201.07407"
+       height="74.119469"
+       x="1.3573022"
+       y="220.19182" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.88772964px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.94719326"
+       x="6.7158475"
+       y="236.48183"
+       id="text919"
+       transform="scale(0.91534931,1.0924791)"><tspan
+         sodipodi:role="line"
+         id="tspan917"
+         x="6.7158475"
+         y="236.48183"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lobster 1.3';-inkscape-font-specification:'Lobster 1.3, ';stroke-width:0.94719326">Said Aguilera</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.80972862px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29524323"
+       x="58.029621"
+       y="277.28592"
+       id="text923"><tspan
+         sodipodi:role="line"
+         id="tspan921"
+         x="58.029621"
+         y="277.28592"
+         style="stroke-width:0.29524323">Docente de Informática</tspan></text>
+  </g>
+</svg>
